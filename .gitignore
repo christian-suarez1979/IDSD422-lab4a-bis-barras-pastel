@@ -1,0 +1,14 @@
+# Sistema
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+
+# Salidas generadas por los scripts
+figuras/
